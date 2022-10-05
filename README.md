@@ -3,6 +3,10 @@
 <br>
 
 
+# PR: https://github.com/Slow-Res/math-series/commit/adeca0745098caf0a69e9a629f7e4700356e5588
+
+<br>
+
 ## Project: Math Series
 
 <br>

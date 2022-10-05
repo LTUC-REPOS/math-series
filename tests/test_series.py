@@ -104,7 +104,6 @@ The first 10 elements (assuming x=2,y=2):
 
 [2, 2, 4, 6, 10, 16, 26, 42, 68, 110]
 
-
 n = 0 --> 2
 n = 4 --> 10
 n = 10 --> 110
@@ -112,7 +111,6 @@ n = -3 --> -1
 n = "String" --> -1
 x = "yes" and y= any --> -1
 y = "str" and x = any --> -1
-
 """
 
 
